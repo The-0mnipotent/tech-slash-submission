@@ -30,6 +30,36 @@ body {
   min-height: 100vh;
 }
 
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 500px;
+  margin-top: -300px;
+}
+
+input {
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+table {
+  border: solid 2px white;
+  width: 100vh;
+  margin-top: 30px;
+  padding: 10px;
+}
+thead {
+  text-decoration: underline;
+}
+
+.fav-link {
+  margin-left: 20px;
+}
+
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
