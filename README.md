@@ -10,5 +10,5 @@ It also has a Add to Favorites button through which You can add these university
 - 02/04/24 4:50 PM => Started Working
 - 02/04/24 6:42 PM => ALL Asked Functionality Completed and Commited (MySQL is hosted on localhost)
 - 02/04/24 7:30 PM => CSS added to the site and Commited
-- Future : Planning to take the site live with database hosted on sever .
+- Future : Planning to take the site live with database hosted on server .
 
