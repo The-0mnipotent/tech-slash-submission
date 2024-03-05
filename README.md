@@ -9,8 +9,8 @@
   ![Screenshot 2024-03-06 00 50 58](https://github.com/The-0mnipotent/tech-slash-submission/assets/80109914/32a602c9-e846-4299-bbdd-87219c511a64)
 
 - User can also write his/her own news piece and add university to it using the api.
-  
-  ![Screenshot 2024-03-06 00 48 31](https://github.com/The-0mnipotent/tech-slash-submission/assets/80109914/01b6cd63-a553-4c5b-bf9e-0ce56fec483f)
+  ![Screenshot 2024-03-06 00 49 48](https://github.com/The-0mnipotent/tech-slash-submission/assets/80109914/bb01dca7-cc8d-428a-86b4-b1b5a375503e)
+
 
 - When reading a single newspiece, the user on right hand side can see all the recommended articles which are of the same university.
 
