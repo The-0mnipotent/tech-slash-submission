@@ -14,5 +14,11 @@ It also has a Add to Favorites button through which You can add these university
 #ScreenShot
 ![image](https://github.com/The-0mnipotent/tech-slash-submission/assets/80109914/2a3ecc9e-de7d-4e1a-beca-99f45d7fc1de)
 
+# How to Install
+- clone this repository
+- In the src folder, go to dbconnect.js file and change credentials according to your local MySql system and database in which you want the data to store.
+- Run npm i in the root folder, and after the node_modules gets installed, run the npm start command and you are ready to go.
+
+
 
 
