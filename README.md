@@ -28,5 +28,8 @@
 ![Screenshot 2024-03-06 011947](https://github.com/The-0mnipotent/tech-slash-submission/assets/80109914/7f722e74-e8f4-4170-b704-1be25e6d5ad4)
 ![Screenshot 2024-03-06 012251](https://github.com/The-0mnipotent/tech-slash-submission/assets/80109914/79053995-dcad-406c-b3b0-c4429d50fe07)
 
-
+# How to Install
+- clone this repository
+- In the src folder, go to dbconnect.js file and change credentials according to your local MySql system and database in which you want the data to store.
+- Run npm i in the both api and client folder, and after the node_modules gets installed, run the npm start command in both to initiate server and frontend and you are ready to go.
 
